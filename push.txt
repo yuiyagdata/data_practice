@@ -1,3 +1,9 @@
+- ローカルレポジトリを指定
+	- mkdir github
+	- cd github
+	- mkdir pushtest
+	- cd pushtest
+	- git init
 - ローカルレポジトリからリモートレポジトリへpush
 	- git add ファイル名
 	- git commit -m “pushコマンドの確認”
