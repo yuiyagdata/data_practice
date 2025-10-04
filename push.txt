@@ -1,0 +1,6 @@
+- ローカルレポジトリからリモートレポジトリへpush
+	- git add ファイル名
+	- git commit -m “pushコマンドの確認”
+	- git remote set-url origin https://github.com/yuiyagdata/レポジトリ名.git
+	//git remote -v で確認すると、新しいリポジトリURLになってるはず！
+	- git push -u origin master
